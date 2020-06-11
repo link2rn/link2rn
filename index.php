@@ -3,7 +3,6 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 
-<!-- Mirrored from themes.3rdwavemedia.com/sphere/1.1.1/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Sep 2017 13:27:11 GMT -->
 <head>
     <title>Link2RN | Home</title>
     <!-- Meta -->
@@ -82,10 +81,10 @@
     <header class="header">
         <div class="top-bar container-fluid">
             <div class="actions">
-                <a class="btn hidden-xs" href="mailto:link2rn@sochware.com">
+                <a class="btn hidden-xs" href="mailto:link2rn@outlook.com">
                     <i class="fa fa-paper-plane" aria-hidden="true"></i> Ping Me
                 </a>
-                <a class="btn" href="assets/files/resume_20180202.pdf"><i class="fa fa-download" aria-hidden="true"></i> Download My Resume 
+                <a class="btn" href="assets/files/Proffessional_resume_20200611.pdf"><i class="fa fa-download" aria-hidden="true"></i> Download My Resume 
                     <!-- <br><i style="font-size: 0.7em; text-transform: none;">
                         Last Updated 1month ago
                     </i> -->
@@ -108,8 +107,8 @@
                     <span class="text-type"></span>
                 </div>
                 <div class="profile">
-                    <p>Call me either Tech Enthusiast or Gadget Lover or evergreen learner. Graduated fellow from College of Information Technology &amp; Engineering, working towards his dream aid of Software Engineering. Mostly enjoys with his own Lappie, always ready to dive into the depth of the Technical world and want to share the fishes what he would catch.</p>
-                    <blockquote><p>You learn, you gain.You Share, you explore..</p></blockquote>
+                    <p>Call me either Tech Enthusiast or Gadget Lover or evergreen learner. Always believe on learning and sharing. Aim of transforming education into 21<sup>st</sup> century digital transformation. Mostly enjoys with his own Lappie, always ready to dive into the depth of the Technical world and want to share the fishes what he would catch.</p>
+                    <blockquote><p>You learn, you gain.You Share, you explored..</p></blockquote>
                 </div><!--//profile-->
             </div><!--//container-->
         </div><!--//intro-->
@@ -117,9 +116,9 @@
         <div class="contact-info">
             <div class="container text-center">
                 <ul class="list-inline">
-                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto:aryan@sochware.com">aryan@sochware.com</a></li>
+                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto:link2rn@outlook.com">link2rn@outlook.com</a></li>
                     <li><i class="fa fa-phone"></i> <a href="tel: +9779849985905">+977-9849985905</a></li>
-                    <li class="website"><i class="fa fa-globe"></i><a href="#" target="_blank">SochWare.com</a></li>
+                    <li class="website"><i class="fa fa-globe"></i><a href="https://milanthapa.me" target="_blank">MilanThapa.me</a></li>
                 </ul>
             </div><!--//container-->
         </div><!--//contact-info-->
@@ -147,7 +146,51 @@
             <h2 class="section-title">Work Experiences</h2>
             <div class="timeline">
                
-                
+                <div class="item">
+                    <div class="work-place">
+                        <h3 class="place">Genese Cloud Academy</h3>
+                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Jhamsikhel, Lalitpur</div>
+                    </div>
+                    <div class="job-meta">
+                        <div class="title">Sr. Regional Officer</div>
+                        <div class="time">2020 - Present</div>
+                    </div><!--//job-meta-->
+                    <div class="job-desc">
+                        <p>Genese Cloud Academy (GCA) is a program for the education sector with a vision to introduce, train, and upskill students in Cloud Computing ecosystem. GCA aims to provide the students of IT and IT management with a wide variety of tools and resources that they can use to not only enhance their theoretical knowledge of cloud computing but to also implement what they learn in real life.</p> 
+                        <ul>
+                            <li>Managing team members from all hubs and their daily day to day tasks.</li>
+                            <li>Provide directions, instructions, and guidance to the team members for the purpose of achieving a goal.</li>
+                            <li>Responsible for business initiations. Make proposals and approach clients about the training.</li>
+                            <li>Regular monitoring and supervision of tasks and activities and ensure the proper implementation of all tasks following the predetermined SOP and standards.</li>
+                            <li>Build long term relationships with both Clients, resource persons, and participants in order to create goodwill and rapport of the organization and ensure the possibilities of business opportunities in the near future.</li>
+                            <li>Use known education principles and stay up-to-date on new training methods and techniques.</li>
+                            <li>Ensure that innovative approaches, good practices, challenges, and positive results are documented to support agency learning.</li>
+                        </ul>
+                    </div><!--//job-desc-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="work-place">
+                        <h3 class="place">Genese Cloud Academy</h3>
+                        <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Maitidevi, Kathmandu</div>
+                    </div>
+                    <div class="job-meta">
+                        <div class="title">District Program Officer &amp;<br>Trainer</div>
+                        <div class="time">2019 - 2020</div>
+                    </div><!--//job-meta-->
+                    <div class="job-desc">
+                        <p>Administer Regional Program for Province-3 along with leading Microsoft Division and regulate AEP programs for transforming digital education. Also as CSP lead working with academic and corporate client for licensing and training different Cloud programs.</p> 
+                        <ul>
+                            <li>Maintaining and monitoring project plans, project schedules, work hours, budgets and expenditures.</li>
+                            <li>Provide orientation and training to different stakeholders as per the requirement of the project.</li>
+                            <li>Developing project strategies and plans for achieving project goals and objectives.</li>
+                            <li>Ensuring projects adhere to frameworks and all documentation is effectively maintained for each project.</li>
+                            <li>Ensure that innovative approaches, good practices, challenges, and positive results are documented to support agency learning.</li>
+
+                        </ul>
+                    </div><!--//job-desc-->
+                </div><!--//item-->
+
                 <div class="item">
                     <div class="work-place">
                         <h3 class="place">Himalayan WhiteHouse International College</h3>
@@ -155,7 +198,7 @@
                     </div>
                     <div class="job-meta">
                         <div class="title">IT Manager</div>
-                        <div class="time">2017 - Present</div>
+                        <div class="time">2017 - 2019</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
                         <p>Administer overall responsibility of IT and online Learning Management Systems for Himalayan WhiteHouse International College.Assist to Program Coordinator and Director/s in academic as well as administrative operations in IT related works.</p> 
@@ -179,7 +222,7 @@
                     </div>
                     <div class="job-meta">
                         <div class="title">IT Manager</div>
-                        <div class="time">2017 - Present</div>
+                        <div class="time">2017 - 2019</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
                         <p>Administer overall responsibility of IT and online Learning Management Systems for Himalayan WhiteHouse World School. Manage every students and teacher for their role to LMS. Assist with Coordinator/s and Director/s in academic operations in IT related works.</p>
@@ -203,7 +246,7 @@
                     </div>
                     <div class="job-meta">
                         <div class="title">Co-Founder &amp;<br> Chief Technology Officer</div>
-                        <div class="time">2016 - Present</div>
+                        <div class="time">2016 - 2019</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
                         <p>Responsible for overseeing all technical aspects of the company. Also an Executive Management to grow the organization through the use of technological resources. Using an active and practical approach,who will direct all employees in IT and IO departments to attain the organization's strategic goals established in the organization's strategic plan.</p> 
@@ -223,7 +266,7 @@
                         <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Tinkune, Kathmandu</div>
                     </div>
                     <div class="job-meta">
-                        <div class="title">IT Executive</div>
+                        <div class="title">IT Manager</div>
                         <div class="time">2014 - Present</div>
                     </div><!--//job-meta-->
                     <div class="job-desc">
@@ -249,39 +292,64 @@
         <section id="education-section" class="education-section section">
             <h2 class="section-title">Education</h2>
             <div class="row">
-                <div class="item col-xs-12 col-sm-4">
+                <div class="item col-xs-12 col-sm-3">
                     <div class="item-inner">
                         <h3 class="degree">School Level Examination</h3>
                         <div class="education-body">
                             S.E.B.S School
                         </div><!--//education-body-->
+                        <div class="education-institution">
+                            Sankhadevi, Nepal
+                        </div><!--//education-institution-->
                         <div class="time">1998 - 2011</div>
                         <div class="desc">
                             Primarily initial schooling where my actual academic started herewith.
                         </div>
                     </div><!--//item-inner-->
                 </div><!--//item-->
-                <div class="item col-xs-12 col-sm-4">
+                <div class="item col-xs-12 col-sm-3">
                     <div class="item-inner">
                         <h3 class="degree">Higher Education on Management</h3>
                         <div class="education-body">
-                            HSEB
+                            Mahalaxmi Campus
                         </div><!--//education-body-->
+                        <div class="education-institution">
+                            Lubhu, Nepal
+                        </div><!--//education-institution-->
                         <div class="time">2011 - 2013</div>
                         <div class="desc">
                            Address demanding and incorporated management education so that I could enhance my managerial skills. The program follows a scientific teaching technique, allowing students to match their subjects with dedicated insight. As a result, it helped me to came up with a clear model of the subject and develop my own ideas about them. Consequently, it helps me to track my higher studies with confidence.
                         </div>
                     </div><!--//item-inner-->
                 </div><!--//item-->
-                <div class="item col-xs-12 col-sm-4">
+                <div class="item col-xs-12 col-sm-3">
                     <div class="item-inner">
                         <h3 class="degree">Bachelors in Computer Application</h3>
                         <div class="education-body">
                             College of Information Technology &amp; Engineering (CITE)
                         </div><!--//education-body-->
+                        <div class="education-institution">
+                            Tinkune, Nepal
+                        </div><!--//education-institution-->
                         <div class="time">2013 - 2017</div>
                         <div class="desc">
                             An integration of theory with practice, case studies, seminars and tutorials which is designed to ensure that practice is thoroughly underpinned with a sound knowledge, scientific and management issues also an optional modules so that the latter stages of the course are suited to individual needs. Having strong emphasis on industry based case study, System Development, Computer Programming and focuses on Software and Hardware Application with strong communication and demonstration Skills.
+                        </div>
+                    </div><!--//item-inner-->
+                </div><!--//item-->
+                <div class="item col-xs-12 col-sm-3">
+                    <div class="item-inner">
+                        <h3 class="degree">Graduate Level Computer Science</h3>
+                        <div class="education-body">
+                           University of People
+                        </div><!--//education-body-->
+                        <div class="education-institution">
+                            California, USA
+                        </div><!--//education-institution-->
+                        <div class="time">2019 - Present</div>
+                        <div class="desc">
+                            An accredited  undergraduate degree program provides students with in-depth knowledge and analytic skills associated with the field of IT and Computer Science. Students receive comprehensive understanding of design, development, testing and documentation of a range of operating systems, in depth knowledge of Database management; and programming languages and essential knowledge to implementing the skill into real-life situations.
+                            With computers being a critical part of today’s society, It opens the doors to a broad career path, with a range of options.
                         </div>
                     </div><!--//item-inner-->
                 </div><!--//item-->
@@ -296,40 +364,47 @@
             <div class="top-skills">
                 <h3 class="subtitle">Top Skills</h3>
                 <div class="row">
-                    <div class="item col-xs-12 col-sm-4">
-                        <div class="item-inner">
-                            <div class="chart-easy-pie text-center">
-                                <div class="chart-theme-2 chart" data-percent="80"><span>80</span>%</div>
-                            </div>
-                            <h4 class="skill-name">HTML, CSS &amp; JS</h4>
-                            <div class="level">Expert, 5 years</div>
-                            <div class="desc">
-                               <!--  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient  -->
-                            </div>
-                        </div><!--//item-inner-->
-                    </div><!--//item-->
-                    <div class="item col-xs-12 col-sm-4">
-                        <div class="item-inner">
-                            <div class="chart-easy-pie text-center">
-                                <div class="chart-theme-1 chart" data-percent="60"><span>60</span>%</div>
-                            </div>
-                            <h4 class="skill-name">Azure &amp; Cloud Computing</h4>
-                            <div class="level">Proficient, 2 years</div>
-                            <div class="desc">
-                                <!-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient  -->
-                            </div>
-                        </div><!--//item-inner-->
-                    </div><!--//item-->
-                    <div class="item col-xs-12 col-sm-4">
+                    <div class="item col-xs-12 col-sm-3">
                         <div class="item-inner">
                             <div class="chart-easy-pie text-center">
                                 <div class="chart-theme-1 chart" data-percent="85"><span>85</span>%</div>
                             </div>
                             <h4 class="skill-name">CodeIgniter</h4>
                             <div class="level">Expert, 4 years</div>
-                            <div class="desc">
-                                <!-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient --> 
+                        </div>
+                        <!--//item-inner-->
+                    </div><!--//item-->
+                    <div class="item col-xs-12 col-sm-3">
+                        <div class="item-inner">
+                            <div class="chart-easy-pie text-center">
+                                <div class="chart-theme-2 chart" data-percent="80"><span>80</span>%</div>
                             </div>
+                            <h4 class="skill-name">Web Devlopment</h4>
+                            <div class="level">Expert, 5 years</div>
+                            <div class="desc">
+                               <!--  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient  -->
+                            </div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    <div class="item col-xs-12 col-sm-3">
+                        <div class="item-inner">
+                            <div class="chart-easy-pie text-center">
+                                <div class="chart-theme-1 chart" data-percent="75"><span>75</span>%</div>
+                            </div>
+                            <h4 class="skill-name">Azure &amp; Cloud Computing</h4>
+                            <div class="level">Proficient, 3 years</div>
+                            <div class="desc">
+                                <!-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient  -->
+                            </div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    <div class="item col-xs-12 col-sm-3">
+                        <div class="item-inner">
+                            <div class="chart-easy-pie text-center">
+                                <div class="chart-theme-1 chart" data-percent="80"><span>80</span>%</div>
+                            </div>
+                            <h4 class="skill-name">Office 365</h4>
+                            <div class="level">Proficient, 4 years</div>
                         </div>
                         <!--//item-inner-->
                     </div><!--//item-->
@@ -399,7 +474,7 @@
                             <p>When he works, he works as if the whole worlds responsibility is in his shoulder ! The most amazingly dedicated software engineer I have met!</p>
                         </blockquote>    
                         <div class="source">
-                            <div class="name">EedaRijal</div>
+                            <div class="name">Eeda Rijal</div>
                             <div class="position">CEO, SochWare</div>
                         </div><!--//source-->   
                                                        
@@ -418,24 +493,80 @@
             <h2 class="section-title">Certification</h2>
             <ul id="filters" class="filters clearfix">
                 <li class="type active" data-filter="*">All</li>
-                <li class="type" data-filter=".web">Web</li>
-                <li class="type" data-filter=".cloud">Cloud Computing</li>
-                <!-- <li class="type" data-filter=".server">Server</li> -->
                 <li class="type" data-filter=".msft">Microsoft</li>
-                <li class="type" data-filter=".ps">PluralSight</li>
-                <li class="type" data-filter=".solo">Sololearn</li>
-                <li class="type" data-filter=".udemy">Udemy</li>
+                <li class="type" data-filter=".web">Web Development</li>
+                <li class="type" data-filter=".cloud">Cloud Computing</li>
+                <li class="type" data-filter=".server">Server/System</li>
+                <!-- <li class="type" data-filter=".ps">PluralSight</li> -->
+                <!-- <li class="type" data-filter=".solo">Sololearn</li> -->
+                <!-- <li class="type" data-filter=".udemy">Udemy</li> -->
                 <li class="type" data-filter=".other">Other</li>
             </ul><!--//filters-->
             <div class="items-wrapper isotope row">
-                <div class="item msft cloud col-md-4 col-xs-12 ">
+                <div class="item ps msft col-md-4 col-xs-12 ">
                     <div class="item-inner">
                         <figure  class="figure" >
-                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/MIE_Milan_Thapa.jpg" alt="" />
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/MIE_expert.png" alt="" />
                         </figure>
                         <div class="content text-left">
-                            <h3 class="sub-title"><a href="#">Architecting Azure Solutions</a></h3>
-                            <div class="meta">PluralSight</div>
+                            <h3 class="sub-title"><a href="#">Microsoft Innovative Educator Expert 2019/20</a></h3>
+                            <div class="meta">Microsoft</div>
+                        </div><!--//content-->    
+                        <a class="link-mask" href="#"></a>              
+                    </div>
+                    <!--//item-inner-->
+                </div>
+
+                <div class="item ps msft col-md-4 col-xs-12 ">
+                    <div class="item-inner">
+                        <figure  class="figure" >
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/MasterTrainer.png" alt="" />
+                        </figure>
+                        <div class="content text-left">
+                            <h3 class="sub-title"><a href="#">MIE Master Trainer 2019-2020</a></h3>
+                            <div class="meta">Microsoft</div>
+                        </div><!--//content-->    
+                        <a class="link-mask" href="#"></a>              
+                    </div>
+                    <!--//item-inner-->
+                </div>
+
+                <div class="item ps msft col-md-4 col-xs-12 ">
+                    <div class="item-inner">
+                        <figure  class="figure" >
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/MIETrainer.png" alt="" />
+                        </figure>
+                        <div class="content text-left">
+                            <h3 class="sub-title"><a href="#">MIE Trainer 2019/20</a></h3>
+                            <div class="meta">Microsoft</div>
+                        </div><!--//content-->    
+                        <a class="link-mask" href="#"></a>              
+                    </div>
+                    <!--//item-inner-->
+                </div>
+
+                <div class="item ps msft col-md-4 col-xs-12 ">
+                    <div class="item-inner">
+                        <figure  class="figure" >
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/MIE.png" alt="" />
+                        </figure>
+                        <div class="content text-left">
+                            <h3 class="sub-title"><a href="#">Certified Microsoft Innovative Educator</a></h3>
+                            <div class="meta">Microsoft</div>
+                        </div><!--//content-->    
+                        <a class="link-mask" href="#"></a>              
+                    </div>
+                    <!--//item-inner-->
+                </div>
+
+                <div class="item ps msft col-md-4 col-xs-12 ">
+                    <div class="item-inner">
+                        <figure  class="figure" >
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/Office365.png" alt="" />
+                        </figure>
+                        <div class="content text-left">
+                            <h3 class="sub-title"><a href="#">Deploying Office 365 for Education</a></h3>
+                            <div class="meta">Microsoft</div>
                         </div><!--//content-->    
                         <a class="link-mask" href="#"></a>              
                     </div>
@@ -661,7 +792,7 @@
             <div class="intro">
                 <img class="profile-image" src="assets/images/aryan.png" alt="">
                 <div class="dialog">
-                    <p>I'm currently working on various organization as IT Manager, IT Executive and Tech Associate. At the same time, I've been responsible for all the technological management as Chief Technology Officer at <a href="https://sochware.com" target="_blank">SochWare</a>. I forever consider myself as a passionate learner whose energy to learn never dies out. Moreover I'll be more happy to share what I gain defining the motto
+                    <p>I'm currently working on various organization as IT Manager, IT Executive and Tech Associate. At the same time, I've been responsible for all the technological management as Co-Founder at <a href="https://sochware.com" target="_blank">SochWare</a>. I forever consider myself as a passionate learner whose energy to learn never dies out. Moreover I'll be more happy to share what I gain defining the motto
                         <center><i>I learned, I gained but I shared, I explored</i></center>
                     </p>
                     <p>Spending quite time with my passion, I got chance to know various flavor of tech where <br><strong>I can help with the following:</strong></p>
@@ -670,6 +801,7 @@
                         <li><i class="fa fa-check" aria-hidden="true"></i> IoT Development and IoT with Cloud</li>
                         <li><i class="fa fa-check" aria-hidden="true"></i> Cloud Analytics and Computing</li>
                         <li><i class="fa fa-check" aria-hidden="true"></i> Microsoft Azure</li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i> Microsoft Office365</li>
                         <li><i class="fa fa-check" aria-hidden="true"></i>HardWare, Networking &amp; Server Management</li>
                         <li><i class="fa fa-check" aria-hidden="true"></i> Front-end development with HTML5/CSS3/JS</li>
                         <li><i class="fa fa-check" aria-hidden="true"></i> Back-end development with PHP &amp; Asp.Net</li>
@@ -678,7 +810,7 @@
                         <li><i class="fa fa-check" aria-hidden="true"></i>App Development with Java</li>
 
                     </ul>
-                    <p>Drop me a line at <a href="mailto:aryan@sochware.com">aryan@sochware.com</a> or call me at <a href="tel:+9779849985905">+977-9849 985 905</a></p>
+                    <p>Drop me a line at <a href="mailto:milan@genesecloud.academy">milan@genesecloud.academy</a> or call me at <a href="tel:+9779849985905">+977-9849 985 905</a></p>
                     <ul class="social list-inline">
                         <li><a href="https://www.linkedin.com/in/link2rn"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                         <li><a href="https://twitter.com/link2rn"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -693,15 +825,16 @@
     
     <footer class="footer text-center">
         <div class="container">
-            <p class="copyright">Copyright @ 
-                <a href="http://link2rn.com/" target="_blank">
-                    AryanS
-                </a>.Powered by
+            <p class="copyright">Copyright © 2019
+                <a href="https://milanthapa.me/" target="_blank">
+                    Milan Thapa
+                </a>. All Rights Reserved.
+                <!-- Powered by
                 <b>
                 <a href="https://sochware.com" target="_blank">
                  <span style="color:#88C540">Soch</span><span style="color:#174587">Ware</span>
                 </a>
-                </b>
+                </b> -->
             </p>
         </div><!--//container-->
     </footer>
@@ -751,38 +884,58 @@
     <script src="assets/js/demo/style-switcher.js"></script>  
     <script type="text/javascript" src="assets/js/tox-progress.js"></script>
 
+    <script src="assets/js/readmore.js"></script>
+
 <script type="text/javascript">
     $(document).ready(function(){
         
        $(".header").hover(function() {
-            document.title='Link2RN | Home';
+            document.title='Milan Thapa | Home';
         });
        $(".experiences-section").hover(function() {
-            document.title='Link2RN | Experience';
+            document.title='Milan Thapa | Experience';
         });
        $(".education-section").hover(function() {
-            document.title='Link2RN | Education';
+            document.title='Milan Thapa | Education';
         });
        $(".skills-section").hover(function() {
-            document.title='Link2RN | Skills';
+            document.title='Milan Thapa | Skills';
             ToxProgress.create();
         ToxProgress.animate();
         });
        $(".testimonials-section").hover(function() {
-            document.title='Link2RN | Testimonials';
+            document.title='Milan Thapa | Testimonials';
         });
        $(".portfolio-section").hover(function() {
-            document.title='Link2RN | Portfolio';
+            document.title='Milan Thapa | Portfolio';
         });       
        $(".contact-section").hover(function() {
-            document.title='Link2RN | Contact';
+            document.title='Milan Thapa | Contact';
         });
+       $('.desc').readmore({
+        speed: 500,
+        collapsedHeight: 200
+       });
     });
 </script>   
     
 <script>
     var typed = new Typed('.text-type', {
-    strings: ["Full Stack Developer","Network Specialist", "Software Engineer","Azure Architect","Microsoft Student Partner 2017","IT Manager","Chief Technology Officer","Technical Associate"],
+    strings: [
+    "Microsoft Imagine Cup 2018 World Winner | AI",    
+    "Microsoft Innovative Educator(MIE)",
+    "Microsoft Innovative Educator(MIE) Trainer 2019/20",
+    "Microsoft Innovative Educator(MIE) Master Trainer 2019/20",
+    "Microsoft Innovative Educator(MIE) Expert 2019/20",
+    "Microsoft Authorized Education Partner(AEP)",
+    "Microsoft CSP Lead",
+    "Microsoft Student Partner 2017",
+    "Sr. Regional Officer", 
+    "Software Engineer",
+    "Full Stack Developer",    
+    "IT Manager",
+    "Fmr. Chief Technology Officer",
+    ],
     typeSpeed: 50,
     backSpeed: 50,
     smartBackspace: true,

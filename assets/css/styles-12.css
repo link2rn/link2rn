@@ -401,6 +401,11 @@ a.btn:hover {
   font-size: 16px;
   font-weight: 300;
 }
+.education-section .education-institution {
+  margin-bottom: 0px;
+  font-size: 12px;
+  font-weight: bold;
+}
 .education-section .time {
   color: #8a8a8a;
   margin-bottom: 15px;
