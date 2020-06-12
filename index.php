@@ -4,13 +4,15 @@
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 
 <head>
-    <title>Link2RN | Home</title>
+    <title>Milan Thapa | Home</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Official portfolio of Milan Thapa">
-    <meta name="author" content="Aryan">   
+    <meta name="description" content="Official website of Milan Thapa">
+    <meta name="author" content="Milan Thapa">
+    <meta name="keywords" content="milanthapa, link2rn, aryan, website, portfolio, Milan Thapa">
+
     <meta name="theme-color" content="#ffffff">
     
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/fav/apple-touch-icon.png">
@@ -148,7 +150,11 @@
                
                 <div class="item">
                     <div class="work-place">
-                        <h3 class="place">Genese Cloud Academy</h3>
+                        <h3 class="place">
+                            <a href="http://genesecloud.academy/" target="_blank">
+                                Genese Cloud Academy
+                            </a>
+                        </h3>
                         <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Jhamsikhel, Lalitpur</div>
                     </div>
                     <div class="job-meta">
@@ -171,7 +177,11 @@
 
                 <div class="item">
                     <div class="work-place">
-                        <h3 class="place">Genese Cloud Academy</h3>
+                        <h3 class="place">
+                            <a href="http://genesecloud.academy/" target="_blank">
+                                Genese Cloud Academy
+                            </a>
+                        </h3>
                         <div class="location"><i class="fa fa-map-marker" aria-hidden="true"></i>Maitidevi, Kathmandu</div>
                     </div>
                     <div class="job-meta">
