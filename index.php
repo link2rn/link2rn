@@ -78,7 +78,7 @@
     <base target="_blank">
 </head> 
 
-<body>
+<body oncontextmenu="return false">
     
     <header class="header">
         <div class="top-bar container-fluid">
@@ -898,7 +898,8 @@
 
 <script type="text/javascript">
     $(document).ready(function(){
-        
+
+
        $(".header").hover(function() {
             document.title='Milan Thapa | Home';
         });
