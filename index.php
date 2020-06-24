@@ -78,7 +78,8 @@
     <base target="_blank">
 </head> 
 
-<body oncontextmenu="return false">
+<body >
+    <!-- oncontextmenu="return false" -->
     
     <header class="header">
         <div class="top-bar container-fluid">
@@ -469,7 +470,7 @@
                     <div class="item active">
                         <blockquote class="quote">      
                             <i class="fa fa-quote-left"></i>                            
-                            <p>Aryan is an excellent software engineer and he is passionate about what he does. .</p>
+                            <p>Milan is an excellent software engineer and he is passionate about what he does. .</p>
                         </blockquote>    
                         <div class="source">
                             <div class="name">Swopnil Shakya</div>
@@ -513,6 +514,20 @@
                 <li class="type" data-filter=".other">Other</li>
             </ul><!--//filters-->
             <div class="items-wrapper isotope row">
+                <div class="item ps msft cloud col-md-4 col-xs-12 ">
+                    <div class="item-inner">
+                        <figure  class="figure" >
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/milan_thapa_azure_fundamentals.png" alt="" />
+                        </figure>
+                        <div class="content text-left">
+                            <h3 class="sub-title"><a href="#">Microsoft Certified Azure Fundamentals</a></h3>
+                            <div class="meta">Microsoft</div>
+                        </div><!--//content-->    
+                        <a class="link-mask" href="#"></a>              
+                    </div>
+                    <!--//item-inner-->
+                </div>  
+
                 <div class="item ps msft col-md-4 col-xs-12 ">
                     <div class="item-inner">
                         <figure  class="figure" >
