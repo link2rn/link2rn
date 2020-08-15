@@ -78,7 +78,7 @@
     <base target="_blank">
 </head> 
 
-<body >
+<body oncontextmenu="return false">
     <!-- oncontextmenu="return false" -->
     
     <header class="header">
@@ -514,6 +514,21 @@
                 <li class="type" data-filter=".other">Other</li>
             </ul><!--//filters-->
             <div class="items-wrapper isotope row">
+                
+                <div class="item ps msft cloud col-md-4 col-xs-12 ">
+                    <div class="item-inner">
+                        <figure  class="figure" >
+                            <img  class="img-responsive" height="4px" src="assets/images/portfolio/msft/milan_thapa_microsoft_AI.png" alt="" />
+                        </figure>
+                        <div class="content text-left">
+                            <h3 class="sub-title"><a href="#">Microsoft Certified AI Fundamentals</a></h3>
+                            <div class="meta">Microsoft</div>
+                        </div><!--//content-->    
+                        <a class="link-mask" href="#"></a>              
+                    </div>
+                    <!--//item-inner-->
+                </div>
+
                 <div class="item ps msft cloud col-md-4 col-xs-12 ">
                     <div class="item-inner">
                         <figure  class="figure" >

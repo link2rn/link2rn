@@ -355,14 +355,14 @@ a.btn:hover {
 }
 .timeline .location {
   position: absolute;
-  right: 0;
-  top: 2px;
+  left: 0;
+  top: 0px;
   color: #8a8a8a;
 }
-.timeline .location .fa {
+.timeline .work-place .location .fa {
   margin-right: 5px;
 }
-.timeline .place {
+.timeline .work-place .place {
   margin-top: 0;
   margin-bottom: 15px;
   font-size: 20px;
@@ -400,12 +400,6 @@ a.btn:hover {
   margin-bottom: 0px;
   font-size: 16px;
   font-weight: 300;
-  color: #8a8a8a;
-}
-.education-section .education-institution {
-  margin-bottom: 0px;
-  font-size: 12px;
-  font-weight: bold;
 }
 .education-section .time {
   color: #8a8a8a;
